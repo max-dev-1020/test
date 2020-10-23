@@ -2,11 +2,13 @@
   "posts": [
     {
       "id": 20201021,
-      "title": "Post 4"
+      "title": "Post 4",
+      "menu": "Оладьи"
     },
     {
       "id": 20201022,
-      "title": "Post 3"
+      "title": "Post 3",
+      "menu": "Блины"
     }
   ]
 }
