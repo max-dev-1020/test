@@ -2,7 +2,11 @@
   "posts": [
     {
       "id": 20201021,
-      "title": "Пост 1"
+      "menu": [
+		    {"category": "1", "name": "Оладьи21", "price": "50", "amount": "0"},
+		    {"category": "1", "name": "Блины21", "price": "35", "amount": "0"},
+		    {"category": "1", "name": "Борщ овощной21", "price": "28", "amount": "0"}
+	    ],
     },
     {
       "id": 20201022,
