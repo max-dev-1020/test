@@ -4,9 +4,9 @@
       "id": 20201021,
       "title": "Post 11",
       "menu": [
-		{"category": "1", "name": "Оладьи21", "price": "50", "amount": "0"},
-		{"category": "1", "name": "Блины21", "price": "35", "amount": "0"},
-		{"category": "1", "name": "Борщ овощной21", "price": "28", "amount": "0"}
+		{"id":1, "category": "1", "name": "Оладьи21", "price": "50", "amount": "0"},
+		{"id":2, "category": "1", "name": "Блины21", "price": "35", "amount": "0"},
+		{"id":3, "category": "1", "name": "Борщ овощной21", "price": "28", "amount": "0"}
 	  ]
     },
     {
